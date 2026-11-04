@@ -49,6 +49,7 @@ Fill in actual team member names and contributions before submitting. No team ro
 - Replace the team placeholders with the actual member names and responsibilities.
 - Capture and add the required app screenshots on a device or an emulator with hardware acceleration enabled.
 - The release APK is already built at `build/app/outputs/flutter-apk/app-release.apk`.
+- Download the installable APK from the [GitHub v1.0.0 release](https://github.com/Johnwesly2006/Project/releases/tag/v1.0.0).
 
 ## Defect log
 
