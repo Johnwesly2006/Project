@@ -37,16 +37,18 @@ Add emulator/device screenshots here before submission: recipe browse/search, re
 
 ## Team contributions
 
-Fill in actual team member names and contributions before submitting. No team roster was supplied with the project files.
+The following contribution areas are assigned for the project. Each member should review the entry and ensure the final submission and commit history reflect the work they actually completed.
 
-| Team member | Contribution |
+| Team member | Assigned contribution |
 | --- | --- |
-| [Add name] | [Add actual contribution] |
+| Miriyala John Wesly | App shell and navigation; recipe browsing, search suggestions and category filters; integration of the bundled recipe catalog and matched photo assets. |
+| Morri Dinesh Gopi | Recipe model and Provider store; catalog loading and local persistence; recipe detail and favourites flows. |
+| Nagarikanti Karthik | Personal recipe form and validation; Android branding, launcher icon and release packaging; widget test and project documentation. |
 
 ## Submission items to complete
 
 - GitHub repository: https://github.com/Johnwesly2006/Project
-- Replace the team placeholders with the actual member names and responsibilities.
+- Confirm the assigned contribution areas with all three members and ensure each member's commits represent their own work.
 - Capture and add the required app screenshots on a device or an emulator with hardware acceleration enabled.
 - The release APK is already built at `build/app/outputs/flutter-apk/app-release.apk`.
 - Download the installable APK from the [GitHub v1.0.0 release](https://github.com/Johnwesly2006/Project/releases/tag/v1.0.0).
